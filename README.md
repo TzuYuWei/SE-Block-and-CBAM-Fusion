@@ -91,6 +91,6 @@ Paper Title:
 
 # AUTHOR
 
-Wei Zi-Yu  
+Wei Tzu-Yu  
 Master of Information Network Engineering  
 Longhua University of Science and Technology
